@@ -2,10 +2,10 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+This program intends to remove strings containing 'oggy' from a list of cockcroaches.
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
+The code worked according to the intention.
 
 Don't forget to update this file after fixing the code.
